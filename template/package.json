@@ -1,0 +1,11 @@
+{
+  "name": "{{name}}",
+  "description": "{{description}}",
+  "repository": "git://github.com/{{repository}}.git",
+  "version": "0.0.0",{{#mit}}
+  "license": "MIT",{{/mit}}
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.x"
+  }
+}
